@@ -15,8 +15,6 @@
 > Profile generator for employer
 
 
-### ✨ [Demo](insert video demo later)
-
 ## Install
 
 ```sh
